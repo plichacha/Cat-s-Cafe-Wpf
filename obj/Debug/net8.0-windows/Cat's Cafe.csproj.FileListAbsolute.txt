@@ -1,0 +1,19 @@
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\Cat's Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\Cat's Cafe.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\Cat's Cafe.AssemblyInfo.cs
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\Cat's Cafe.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\Cat's Cafe.genruntimeconfig.cache
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\bin\Debug\net8.0-windows\CatsCafeWpfApp.exe
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\bin\Debug\net8.0-windows\CatsCafeWpfApp.deps.json
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\bin\Debug\net8.0-windows\CatsCafeWpfApp.runtimeconfig.json
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\bin\Debug\net8.0-windows\CatsCafeWpfApp.dll
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\bin\Debug\net8.0-windows\CatsCafeWpfApp.pdb
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\CatsCafeWpfApp_MarkupCompile.cache
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\CatsCafeWpfApp.g.resources
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\CatsCafeWpfApp.dll
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\refint\CatsCafeWpfApp.dll
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\CatsCafeWpfApp.pdb
+C:\Users\valen\Desktop\Cat's Cafe\Cat's Cafe\obj\Debug\net8.0-windows\ref\CatsCafeWpfApp.dll
